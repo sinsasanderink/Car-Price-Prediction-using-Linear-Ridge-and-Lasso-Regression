@@ -1,5 +1,7 @@
 # Car Price Prediction Project
 
+![Car Price Prediction](carpricepredictionimage.jpg)
+
 This project aims to predict car prices using various regression techniques, including linear regression, ridge regression, and lasso regression. The analysis includes data cleaning, exploratory data analysis, feature engineering, and model comparison.
 
 ## Table of Contents
